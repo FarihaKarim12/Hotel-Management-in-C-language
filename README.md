@@ -19,7 +19,7 @@ This is a console-based Hotel Management System implemented in the C programming
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/hotel-management-in-c.git
+   git clone https://github.com/fariha880/Hotel-Management-in-C-language.git
 2. **Navigate to the Project Directory**: bash cd hotel-management-in-c
 3. **Compile the Code**: bash gcc hotel.c -o hotel
 
